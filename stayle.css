@@ -45,10 +45,15 @@ box-shadow:5px ;
  align-items: center;
  justify-content: center;
  display: flex;
-color: whitesmoke;
+color:whitesmoke;
 justify-content: space-evenly;
 
+}
 
+.h h1{
+
+    color: aliceblue;
+    font-style:;
 }
 #inputtask{
 
