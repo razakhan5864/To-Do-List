@@ -48,12 +48,13 @@ box-shadow:5px ;
 color:whitesmoke;
 justify-content: space-evenly;
 
+
 }
 
-.h h1{
+.h a{
 
     color: aliceblue;
-    font-style:;
+ text-decoration: none;
 }
 #inputtask{
 
